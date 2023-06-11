@@ -1,4 +1,4 @@
-# Pirate's Adventures
+# Pirate's Adventures (https://pirates-adventures.onrender.com)
 
 Pirate's Adventures is a social media-inspired platform designed for adventure enthusiasts who are passionate about exploring the world. The platform allows users to create and join adventure events, sharing details and inviting others to participate. It also provides dedicated chat rooms for each adventure, facilitating communication and collaboration among participants.
 

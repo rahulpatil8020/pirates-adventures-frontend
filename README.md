@@ -14,6 +14,9 @@ Pirate's Adventures is a social media-inspired platform designed for adventure e
 
 - Enhancing adventure experiences: By bringing adventure enthusiasts together, Pirate's Adventures aims to enhance the overall adventure experience. Users can share their experiences, learn from others, and create memorable moments while exploring new horizons.
 
+## Previews
+
+
 ## Getting Started
 
 To get started with Pirate's Adventures, follow these steps:
